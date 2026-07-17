@@ -18,14 +18,7 @@ I'm **吕勇稷 (Yongji Lü)**, a student at **Westlake University** and a membe
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memory-source&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memory-source&layout=compact&theme=default)
-
----
 
 ### 🔗 Connect with Me
 
