@@ -111,6 +111,8 @@ Undergraduate @ **Westlake University** · School of Engineering · AI
 
 ### 📊 GitHub Stats
 
+> ℹ️ Stats images below are hosted on Vercel. If they appear blank, you may need a VPN/proxy — Vercel is often slow/unreachable in mainland China.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=memory-source&show_icons=true&theme=transparent&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memory-source&layout=compact&theme=transparent&hide_border=true" width="48%" />
